@@ -79,8 +79,3 @@ Application parts are:
     core    - some general components (jwt, security, configuration)
     api     - handlers for routes
     main.py - FastAPI application instance, CORS configuration and api router including
-
-
-Todo
-----
-1) Add more unit test
